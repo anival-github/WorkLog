@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.user-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.user-list-item {
+  width: 200px;
+  height: 100px;
+  border: 1px solid;
+  margin: 10px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a.active {
+  color: black;
+}
+
+.red {
+  color: red;
+}
