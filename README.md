@@ -1,6 +1,6 @@
 # Creating work-log app with React Hooks
 
-## The main functionality of the app: 
+### The main functionality of the app: 
 
 Tracking whether employees breach internal regulations, according to which it is forbidden to leave the department when there are fewer than 3 doctors left in it. Breaches are highlighted with red.
 
